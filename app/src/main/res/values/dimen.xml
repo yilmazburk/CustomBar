@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fontSize">11sp</dimen>
+    <dimen name="barHeight">10dp</dimen>
+    <dimen name="barInset">10dp</dimen>
+    <dimen name="barCornerRadius">20dp</dimen>
+    <dimen name="circleRadius">7dp</dimen>
+</resources>
